@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-A website to showcase some JavaScript begineer projects that I'll be building to
+A website to showcase some JavaScript beginner projects that I'll be building to
 practice JS.
 
 ## Projects
