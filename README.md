@@ -5,7 +5,8 @@ practice JS.
 
 ## Projects
 
-- [Color Flipper](htthttps://lex-sucena.github.io/js-projects/assets/projects/color-flipper/color-flipper.html)
+- [Color Flipper](https://lex-sucena.github.io/js-projects/assets/projects/color-flipper/color-flipper.html)
+- [Calculadora de VT](https://lex-sucena.github.io/calcVT/)
 
 ## Autores
 
