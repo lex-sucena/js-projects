@@ -7,6 +7,7 @@ practice JS.
 
 - [Color Flipper](https://lex-sucena.github.io/js-projects/assets/projects/color-flipper/color-flipper.html)
 - [Calculadora de VT](https://lex-sucena.github.io/calcVT/)
+- [Counter](https://lex-sucena.github.io/js-projects/assets/projects/counter/index.html)
 
 ## Autores
 
